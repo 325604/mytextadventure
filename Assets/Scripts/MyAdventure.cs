@@ -26,7 +26,8 @@ public class MyAdventure : MonoBehaviour
         springnee,
         springzeil,
         springzeilja,
-        springzeilnee
+        springzeilnee,
+        dood
     }
     private States currentStates = States.start;
     private bool OpOnderzoek;
